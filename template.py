@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(meaasge)s:')
 project_name = 'mlproject'
 
 list_of_files = [
-    ".github/workflowa/.gitkeep",
+    ".github/workflows/.gitkeep",
     f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/utils/__init__.py",
     f"src/{project_name}/utils/common.py",
